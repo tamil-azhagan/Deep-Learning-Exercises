@@ -1,0 +1,3 @@
+The dataset and other kaggle links are provided in the document in the folder. 
+This code utilizes only the training.csv file and did not use test.csv file in the dataset.
+To extend this, one can try training in train.csv and test with test.csv
